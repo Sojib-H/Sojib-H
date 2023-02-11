@@ -1,6 +1,6 @@
 <img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Sojib Hossain</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib-h&label=Profile%20views&color=0e75b6&style=flat" alt="sojib-h" /> </p>
 

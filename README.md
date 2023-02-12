@@ -1,4 +1,4 @@
-<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg" alt="">
+<p align="center"> <img height="200" widht="200" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" /></p>
 <h1 align="center">Hi 👋, I'm Sojib Hossain</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 

@@ -19,6 +19,10 @@
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 <h3>Glad to see you here!</h3>
+<p>I’m a full-stack web developer. Being a full-stack web developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also like to frequently learn about promising technologies in the modern world.</p>
+<br/>
 
 - 🔭 I’m currently working on **Ecommerce Site With Angular 12**
 

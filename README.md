@@ -50,7 +50,7 @@
 
 </div>-->
 
-## Languages  
+## Used Languages 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sojib-h&show_icons=true&locale=en&layout=compact" align="center" /></div>  
 
 <br/>  
@@ -59,7 +59,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sojib-h&show_icons=true&locale=en" align="center" /></div>  
 
 <br/>  
-## Contributions
+
+## Github Contributions  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sojib-h&" align="center" /></div>  
-<br/>
+
+<br/> 
 

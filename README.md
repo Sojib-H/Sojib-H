@@ -1,5 +1,19 @@
 <p align="center"> <img height="200" widht="200" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" /></p>
-<h1 align="center">Hi 👋, I'm Sojib Hossain</h1>
+<div align="center">
+<a href="https://github.com/Sojib-H" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sojib-h/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sojibcste/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/sojib.hossain007/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
+<h1 align="center">Hey there 👋, I'm Sojib Hossain</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib-h&label=Profile%20views&color=0e75b6&style=flat" alt="sojib-h" /> </p>

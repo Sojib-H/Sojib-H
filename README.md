@@ -16,9 +16,9 @@
 <h1 align="center">Hey there 👋, I'm Sojib Hossain</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib-h&label=Profile%20views&color=0e75b6&style=flat" alt="sojib-h" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
+<h3>Glad to see you here!</h3>
 
 - 🔭 I’m currently working on **Ecommerce Site With Angular 12**
 
@@ -64,4 +64,6 @@
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sojib-h&" align="center" /></div>  
 
 <br/> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib-h&label=Profile%20views&color=0e75b6&style=flat" alt="sojib-h" /> </p>
 

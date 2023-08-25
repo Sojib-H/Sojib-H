@@ -24,9 +24,9 @@
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also like to frequently learn about promising technologies in the modern world.</p>
 <br/>
 
-- 🔭 I’m currently working on **Union Management System with .Net core and Angularjs**
+- 🔭 I’m currently working on **Pharmacy Management System with .Net core 7 and Angular 12**
 
-- 🌱 I’m currently learning **C#, Angular, Angularjs and new Technologies**
+- 🌱 I’m currently learning **C#, Asp.Net, .Net MVC, .Net Core, Angular, Angularjs and new Technologies**
 
 - 💬 Ask me about **C#, Laravel, Angular, Javascript, HTML, CSS**
 
